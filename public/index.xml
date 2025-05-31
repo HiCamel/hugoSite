@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>m-fra.me</title>
+    <link>http://example.org/</link>
+    <description>Recent content on m-fra.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 May 2025 08:34:11 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On being frugal</title>
+      <link>http://example.org/posts/on_being_frugal/</link>
+      <pubDate>Sat, 31 May 2025 08:34:11 -0500</pubDate>
+      
+      <guid>http://example.org/posts/on_being_frugal/</guid>
+      <description>It&amp;rsquo;s good to be frugal, try to participate in the circular economy on Facebook Marketplace.
+You really only need a computer, a tv and a phone, all other electronics are bloat.
+A 6th gen intel i5 with 16 gb of ram can run pretty much everything that is needed for programming at the level that you operate at. If you are doing anything that requires more compute or gpu resources it is cheaper (or free) to use cloud services.</description>
+    </item>
+    
+    <item>
+      <title>Thats alot of words</title>
+      <link>http://example.org/posts/thats_alot_of_words/</link>
+      <pubDate>Sun, 25 May 2025 00:17:13 -0500</pubDate>
+      
+      <guid>http://example.org/posts/thats_alot_of_words/</guid>
+      <description>Too Bad i&amp;rsquo;m not readin em
+On my first run through college (2007 &amp;ndash; 2011). I had an english professor named Pagaard (pronounced Pay Guard as he would always say).
+Pagaard&amp;rsquo;s philosophy was that you should use as few words as possible while fully explaining what you are trying to communicate. Pagaard&amp;rsquo;s main thought on this subject was that language is used for communication, if you use too many words you can muddy the waters.</description>
+    </item>
+    
+    <item>
+      <title>How I Build Things</title>
+      <link>http://example.org/posts/how_i_build_things/</link>
+      <pubDate>Sat, 24 May 2025 23:40:20 -0500</pubDate>
+      
+      <guid>http://example.org/posts/how_i_build_things/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://example.org/resume/</link>
+      <pubDate>Sat, 24 May 2025 23:39:46 -0500</pubDate>
+      
+      <guid>http://example.org/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts on automating my life</title>
+      <link>http://example.org/posts/thoughts_on_automating_my_life/</link>
+      <pubDate>Sat, 24 May 2025 23:37:28 -0500</pubDate>
+      
+      <guid>http://example.org/posts/thoughts_on_automating_my_life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tasty tomato boullion rice</title>
+      <link>http://example.org/posts/tasty_tomato_boullion_rice/</link>
+      <pubDate>Sat, 24 May 2025 23:32:48 -0500</pubDate>
+      
+      <guid>http://example.org/posts/tasty_tomato_boullion_rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podman Tui</title>
+      <link>http://example.org/posts/podman-tui/</link>
+      <pubDate>Sat, 24 May 2025 23:32:00 -0500</pubDate>
+      
+      <guid>http://example.org/posts/podman-tui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 24 May 2025 19:29:01 -0500</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Welcome to my site! My name is M. This is the About page.
+Here you can learn more about me and what I do.
+I work in IT for a living, my specialty is Linux administraton but I also have a wide variety of other skills both in and out of the technology world.
+I&amp;rsquo;ve been working in IT for over a decade. started when I was 22 and built up my skills gradually over the years.</description>
+    </item>
+    
+    <item>
+      <title>PXE server configuration - Homelab - Ethernet NIC on back of AIO computer</title>
+      <link>http://example.org/posts/pxeserverconfig/</link>
+      <pubDate>Thu, 22 May 2025 20:12:40 -0500</pubDate>
+      
+      <guid>http://example.org/posts/pxeserverconfig/</guid>
+      <description>Background: Recently I began expanding my homelab. Historically @ home I used usb drives to flash linux onto new computers that I purchased but I was getting tired of losing said usb drives.
+Because of this I began thinking about how i&amp;rsquo;ve imaged devices in the past. I remembered that once, at one of the companies I worked at I configured a PXE server such that I could image about 30 laptops for a programming interview/test that the company was doing so that they could hire more people.</description>
+    </item>
+    
+  </channel>
+</rss>

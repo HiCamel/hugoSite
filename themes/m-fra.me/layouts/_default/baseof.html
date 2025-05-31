@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  {{ partial "header.html" . }}
+  {{ partial "navbar.html" . }}
+
+<div class="content">  	
+  <main>{{ block "main" . }}{{ end }}</main>
+</div>
+
+{{ partial "footer.html" . }}
+ 
+
+<script src="/background_patterns.js"></script>
+
+
+
+</body>
+</html>
+

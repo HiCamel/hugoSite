@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  color: #2c3e50; /* dark slate gray */
+}
+
+header, footer {
+  background: #34495e; /* professional dark blue-gray */
+  color: white;
+  padding: 1rem;
+}
+
+body {
+  width: 50%;
+  margin: auto;
+  height: auto;
+}
+
+html {
+  background-color: #f4f6f8; /* very light gray */
+  background-blend-mode: darken;
+}
+
+footer {
+  text-align: center;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on m-fra.me</title>
+    <link>http://example.org/categories/general/</link>
+    <description>Recent content in General on m-fra.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 20:12:40 -0500</lastBuildDate><atom:link href="http://example.org/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PXE server configuration - Homelab - Ethernet NIC on back of AIO computer</title>
+      <link>http://example.org/posts/pxeserverconfig/</link>
+      <pubDate>Thu, 22 May 2025 20:12:40 -0500</pubDate>
+      
+      <guid>http://example.org/posts/pxeserverconfig/</guid>
+      <description>Background: Recently I began expanding my homelab. Historically @ home I used usb drives to flash linux onto new computers that I purchased but I was getting tired of losing said usb drives.
+Because of this I began thinking about how i&amp;rsquo;ve imaged devices in the past. I remembered that once, at one of the companies I worked at I configured a PXE server such that I could image about 30 laptops for a programming interview/test that the company was doing so that they could hire more people.</description>
+    </item>
+    
+  </channel>
+</rss>

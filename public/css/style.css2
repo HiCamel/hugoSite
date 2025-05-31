@@ -1,0 +1,8 @@
+body { font-family: sans-serif; margin: 2rem; color:rgb(15, 161, 172) }
+header, footer { background: rgb(203, 206, 12); padding: 1rem; }
+
+body {width: 50%; margin:auto; height: auto}
+html {background-color: bisque; background-blend-mode:darken;}
+
+
+footer {text-align:center;}
