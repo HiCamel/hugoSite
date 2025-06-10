@@ -6,7 +6,19 @@
     <description>Recent content in Posts on m-fra.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 21:12:25 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jun 2025 13:40:20 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Build Things</title>
+      <link>http://example.org/posts/how_i_build_things/</link>
+      <pubDate>Mon, 09 Jun 2025 13:40:20 -0500</pubDate>
+      
+      <guid>http://example.org/posts/how_i_build_things/</guid>
+      <description>Before AI, I typically started out with an idea of what I&amp;rsquo;m trying to accomplish based on some need that I have.
+I write out a list of steps that I need to accomplish said task.
+After my list is written out I would fill in the details beneath each step (like how I would accomplish subtasks to accomplish the overaching step).
+If I am writing a script I would then decide of each step should be a function or if it&amp;rsquo;s okay to just write the code in my main execution area.</description>
+    </item>
+    
     <item>
       <title>The Need to Buy New Things</title>
       <link>http://example.org/posts/the-need-to-buy-new-things/</link>
@@ -19,6 +31,16 @@ Now I know that I really don&amp;rsquo;t need to buy whatever the latest thing i
     </item>
     
     <item>
+      <title>Tasty tomato boullion rice</title>
+      <link>http://example.org/posts/tasty_tomato_boullion_rice/</link>
+      <pubDate>Sun, 01 Jun 2025 23:32:48 -0500</pubDate>
+      
+      <guid>http://example.org/posts/tasty_tomato_boullion_rice/</guid>
+      <description>My favorite side dish is rice. One way to make rice better though is to add a bit of tomato boullion into it (instead of salt).
+ First you take 1 cup of rice Add it into the rice cooker with 1.5 cups of water Add about a teaspoon of tomato boullion. I use the tomato boullion pictured above Let the rice cooker work it&amp;rsquo;s magic (wait till it finishes cooking the rice).</description>
+    </item>
+    
+    <item>
       <title>On being frugal</title>
       <link>http://example.org/posts/on_being_frugal/</link>
       <pubDate>Sat, 31 May 2025 08:34:11 -0500</pubDate>
@@ -27,6 +49,18 @@ Now I know that I really don&amp;rsquo;t need to buy whatever the latest thing i
       <description>It&amp;rsquo;s good to be frugal, try to participate in the circular economy on Facebook Marketplace.
 You really only need a computer, a tv and a phone, all other electronics are bloat.
 A 6th gen intel i5 with 16 gb of ram can run pretty much everything that is needed for programming at the level that you operate at. If you are doing anything that requires more compute or gpu resources it is cheaper (or free) to use cloud services.</description>
+    </item>
+    
+    <item>
+      <title>Podman Tui</title>
+      <link>http://example.org/posts/podman-tui/</link>
+      <pubDate>Thu, 29 May 2025 23:32:00 -0500</pubDate>
+      
+      <guid>http://example.org/posts/podman-tui/</guid>
+      <description>I&amp;rsquo;m really into doing things as simply as possible. Because of this, I spend countless hours searching across the internet to find new and better ways to accomplish my goals.
+In my searches I came across a program called &amp;ldquo;podman-tui&amp;rdquo;.
+Podman-tui simplifies container administration w/ podman. Best part is it is available in the repositories for RHEL (so you can use it @ your job).
+Below is a gif taken from the github page for podman-tui, really cool stuff, much better than memorizing a bunch of commands when you&amp;rsquo;re first getting into containers.</description>
     </item>
     
     <item>
@@ -46,25 +80,6 @@ Pagaard&amp;rsquo;s philosophy was that you should use as few words as possible 
       <pubDate>Sat, 24 May 2025 23:37:28 -0500</pubDate>
       
       <guid>http://example.org/posts/thoughts_on_automating_my_life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tasty tomato boullion rice</title>
-      <link>http://example.org/posts/tasty_tomato_boullion_rice/</link>
-      <pubDate>Sat, 24 May 2025 23:32:48 -0500</pubDate>
-      
-      <guid>http://example.org/posts/tasty_tomato_boullion_rice/</guid>
-      <description>My favorite side dish is rice. One way to make rice better though is to add a bit of tomato boullion into it (instead of salt).
- First you take 1 cup of rice Add it into the rice cooker with 1.5 cups of water Add about a teaspoon of tomato boullion. I use the tomato boullion pictured above Let the rice cooker work it&amp;rsquo;s magic (wait till it finishes cooking the rice).</description>
-    </item>
-    
-    <item>
-      <title>Podman Tui</title>
-      <link>http://example.org/posts/podman-tui/</link>
-      <pubDate>Sat, 24 May 2025 23:32:00 -0500</pubDate>
-      
-      <guid>http://example.org/posts/podman-tui/</guid>
       <description></description>
     </item>
     
