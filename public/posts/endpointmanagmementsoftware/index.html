@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Thoughts About Endpoint Managmement Software</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+	<h1>m-fra.me</h1>
+	<i><b>A structure for my continued education</b></i>
+
+</header>
+
+  <nav class="main-nav">
+  <ul>
+    
+      <li><a href="/">Home</a></li>
+    
+      <li><a href="/about/">About</a></li>
+    
+      <li><a href="/resume/">Resume</a></li>
+    
+  </ul>
+</nav>
+
+<div class="content">  	
+  <main>
+<article>
+  <h2>Thoughts About Endpoint Managmement Software</h2>
+  <p>Over the past year I have worked a bit on expanding my knowledge of configuration management / endpoint management software (such as Ansible, and Intune).</p>
+<h3 id="ansible">Ansible</h3>
+<p>Ansible in my opinion is wonderful, historically i&rsquo;ve used shell scripts to manage my Linux nodes but Ansible allows me to actually see @ a glance if my configuration applied or not. With shell scripts I&rsquo;d run my script against the node and i&rsquo;d have to verify that it applied correctly. Ansible immediately tells me if a task failed, was skipped or was &ldquo;ok&rdquo;.</p>
+<p>Ansible also applies immediately which is perfect for me as well.</p>
+<h3 id="intune">Intune</h3>
+<p>Intune is cool, but my major gripe with it is that it doesn&rsquo;t apply the configurations immediately.</p>
+<p>This lack of immediate response is annoying to me because historically on Windows i&rsquo;ve used PDQ deploy in a similar way to how I use Ansible on Linux (to apply software and configuraton files to remote nodes). Intune is great for maintaining a configuration on the end node but the lack of immediate response makes the testing and verification process I perform against either my test nodes or the prod nodes a much more time consuming ordeal.</p>
+<p>Even though I dislike the lack of immediate response, I really like Intune&rsquo;s integration with Microsoft Entra ID (the new name for Azure AD). With Entra if I were doing IT at a small/medium company I could just point all my Windows machines to Entra for the &ldquo;AD Join&rdquo; and then host my own dhcp, dns and other various servers (which i&rsquo;d need locally) on Linux. Based on my understanding this would remove my need for CALS (which i&rsquo;ve never liked the thought of having to pay for). I&rsquo;m sure Microsoft still makes a good profit from their 365 / Entra / Intune / Office cloud licensing so it&rsquo;s likely a Win/Win.</p>
+
+</article>
+</main>
+</div>
+
+<footer>
+  <p>&copy; 2025 m-fra.me</p>
+</footer>
+
+
+ 
+
+<script src="/background_patterns.js"></script>
+
+
+
+</body>
+</html>
+

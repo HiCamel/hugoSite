@@ -1,5 +1,5 @@
 ---
-title: "Thats alot of words"
+title: "That's alot of words"
 date: 2025-05-25T00:17:13-05:00
 draft: false
 ---
@@ -8,7 +8,7 @@ draft: false
 
 **Too Bad i'm not readin em**
 
-On my first run through college (2007 -- 2011). I had an english professor named Pagaard (pronounced Pay Guard as he would always say).
+On my first run through college (2007 -- 2011). I had an English professor named Pagaard (pronounced Pay Guard as he would always say).
 
 Pagaard's philosophy was that you should use as few words as possible while fully explaining what you are trying to communicate. Pagaard's main thought on this subject was that language is used for communication, if you use too many words you can muddy the waters.
 

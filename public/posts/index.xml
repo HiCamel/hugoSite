@@ -6,7 +6,17 @@
     <description>Recent content in Posts on m-fra.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 13:40:20 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 09:58:46 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts About Endpoint Managmement Software</title>
+      <link>http://example.org/posts/endpointmanagmementsoftware/</link>
+      <pubDate>Sat, 28 Jun 2025 09:58:46 -0500</pubDate>
+      
+      <guid>http://example.org/posts/endpointmanagmementsoftware/</guid>
+      <description>Over the past year I have worked a bit on expanding my knowledge of configuration management / endpoint management software (such as Ansible, and Intune).
+Ansible Ansible in my opinion is wonderful, historically i&amp;rsquo;ve used shell scripts to manage my Linux nodes but Ansible allows me to actually see @ a glance if my configuration applied or not. With shell scripts I&amp;rsquo;d run my script against the node and i&amp;rsquo;d have to verify that it applied correctly.</description>
+    </item>
+    
     <item>
       <title>How I Build Things</title>
       <link>http://example.org/posts/how_i_build_things/</link>
@@ -64,13 +74,13 @@ Below is a gif taken from the github page for podman-tui, really cool stuff, muc
     </item>
     
     <item>
-      <title>Thats alot of words</title>
+      <title>That&#39;s alot of words</title>
       <link>http://example.org/posts/thats_alot_of_words/</link>
       <pubDate>Sun, 25 May 2025 00:17:13 -0500</pubDate>
       
       <guid>http://example.org/posts/thats_alot_of_words/</guid>
       <description>Too Bad i&amp;rsquo;m not readin em
-On my first run through college (2007 &amp;ndash; 2011). I had an english professor named Pagaard (pronounced Pay Guard as he would always say).
+On my first run through college (2007 &amp;ndash; 2011). I had an English professor named Pagaard (pronounced Pay Guard as he would always say).
 Pagaard&amp;rsquo;s philosophy was that you should use as few words as possible while fully explaining what you are trying to communicate. Pagaard&amp;rsquo;s main thought on this subject was that language is used for communication, if you use too many words you can muddy the waters.</description>
     </item>
     
