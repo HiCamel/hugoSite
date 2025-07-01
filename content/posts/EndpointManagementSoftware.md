@@ -1,6 +1,6 @@
 ---
 title: "Thoughts About Endpoint Management Software"
-date: 2025-06-28T09:58:46-05:00
+date: 2025-06-28T09:59:46-05:00
 draft: false
 ---
 
