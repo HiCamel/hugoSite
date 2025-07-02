@@ -6,13 +6,13 @@
     <description>Recent content in Posts on m-fra.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 09:58:46 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 09:59:46 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thoughts About Endpoint Managmement Software</title>
-      <link>http://example.org/posts/endpointmanagmementsoftware/</link>
-      <pubDate>Sat, 28 Jun 2025 09:58:46 -0500</pubDate>
+      <title>Thoughts About Endpoint Management Software</title>
+      <link>http://example.org/posts/endpointmanagementsoftware/</link>
+      <pubDate>Sat, 28 Jun 2025 09:59:46 -0500</pubDate>
       
-      <guid>http://example.org/posts/endpointmanagmementsoftware/</guid>
+      <guid>http://example.org/posts/endpointmanagementsoftware/</guid>
       <description>Over the past year I have worked a bit on expanding my knowledge of configuration management / endpoint management software (such as Ansible, and Intune).
 Ansible Ansible in my opinion is wonderful, historically i&amp;rsquo;ve used shell scripts to manage my Linux nodes but Ansible allows me to actually see @ a glance if my configuration applied or not. With shell scripts I&amp;rsquo;d run my script against the node and i&amp;rsquo;d have to verify that it applied correctly.</description>
     </item>
