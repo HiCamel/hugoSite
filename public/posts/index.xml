@@ -6,7 +6,19 @@
     <description>Recent content in Posts on m-fra.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 09:59:46 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 08:03:13 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on Automating My Life</title>
+      <link>http://example.org/posts/thoughts-on-automating-my-life/</link>
+      <pubDate>Fri, 04 Jul 2025 08:03:13 -0500</pubDate>
+      
+      <guid>http://example.org/posts/thoughts-on-automating-my-life/</guid>
+      <description>NOTE: This is alot of words, I may need to pare this down a bit
+TL;DR: Automation good, buy cheap timers from hardware store to control your lights. Robot vacuums are cool, use them
+Automation Automation is something that I really enjoy doing. It is nice to configure your devices to automatically do things for you (such that you can reduce your mental load).
+In my personal life, I set timers on things such as lighting, air conditioning and vacuuming (robot vacuum).</description>
+    </item>
+    
     <item>
       <title>Thoughts About Endpoint Management Software</title>
       <link>http://example.org/posts/endpointmanagementsoftware/</link>
@@ -82,15 +94,6 @@ Below is a gif taken from the github page for podman-tui, really cool stuff, muc
       <description>Too Bad i&amp;rsquo;m not readin em
 On my first run through college (2007 &amp;ndash; 2011). I had an English professor named Pagaard (pronounced Pay Guard as he would always say).
 Pagaard&amp;rsquo;s philosophy was that you should use as few words as possible while fully explaining what you are trying to communicate. Pagaard&amp;rsquo;s main thought on this subject was that language is used for communication, if you use too many words you can muddy the waters.</description>
-    </item>
-    
-    <item>
-      <title>Thoughts on automating my life</title>
-      <link>http://example.org/posts/thoughts_on_automating_my_life/</link>
-      <pubDate>Sat, 24 May 2025 23:37:28 -0500</pubDate>
-      
-      <guid>http://example.org/posts/thoughts_on_automating_my_life/</guid>
-      <description></description>
     </item>
     
     <item>

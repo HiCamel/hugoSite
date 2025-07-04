@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Thoughts on Automating My Life</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+	<h1>m-fra.me</h1>
+	<i><b>A structure for my continued education</b></i>
+
+</header>
+
+  <nav class="main-nav">
+  <ul>
+    
+      <li><a href="/">Home</a></li>
+    
+      <li><a href="/about/">About</a></li>
+    
+      <li><a href="/resume/">Resume</a></li>
+    
+  </ul>
+</nav>
+
+<div class="content">  	
+  <main>
+<article>
+  <h2>Thoughts on Automating My Life</h2>
+  <p><strong>NOTE:</strong> This is alot of words, I may need to pare this down a bit</p>
+<p><strong>TL;DR:</strong> Automation good, buy cheap timers from hardware store to control your lights. Robot vacuums are cool, use them</p>
+<h3 id="automation">Automation</h3>
+<p>Automation is something that I really enjoy doing. It is nice to configure your devices to automatically do things for you (such that you can reduce your mental load).</p>
+<p>In my personal life, I set timers on things such as lighting, air conditioning and vacuuming (robot vacuum). You could also think of a dishwasher, washing machine and dryers as another form of automation (although they are less exotic).</p>
+<p>In my work life, I write scripts to process data, perform actions aganst files (such as compression and modifications), use cron to run scripts on a timer, and to pull information about the computers that I administer (for monitoring purposes).</p>
+<p>Automation is a big 50 cent word that sounds impressive but like most good ideas it actually resolves down to very simple tasks which are available to most people.</p>
+<h3 id="monitoring-your-automations">Monitoring your automations</h3>
+<p>It is important to remember that even though you&rsquo;ve automated something you must still monitor your automation to make sure it works. If you don&rsquo;t monitor the automation, things can break due to changes in the surrounding environment.</p>
+<p>Monitoring can mean:</p>
+<ul>
+<li>Buying a bunch of smart home plugs / devices and add them all into home assistant.</li>
+<li>Walking over to the device yourself and verifying that it works.</li>
+<li>Using a tool such as Zabbix to send you alerts when an event happens on a computer (such as not pinging, resource usage alerts, etc).</li>
+<li>Writing a script to loop through all of your nodes (so you can echo out data that you&rsquo;re interested in viewing).</li>
+</ul>
+<h3 id="automation-based-on-events">Automation based on events</h3>
+<p>Some people think that you can make your automations smarter by having them make decisions based on the surrounding environment, In most of the automations i&rsquo;ve seen on the internet (such as weather reports). From what i&rsquo;ve seen, weather reports can be wrong.</p>
+<p>You could argue that you can add your own weather station to your automation setup but that would just increase the cost of your configuration and there becomes a price-to-performance issue in my opinion.</p>
+<p>One type of event based automation I thing would be useful is a moisture sensor of some sort when used for automation of plant watering. If you could measure how much moisture a type of plant needs then you could be more efficient in your water usage. This kind of thing would be useful in a more arid climate (although since I currently live in Iowa I don&rsquo;t even have to think about irrigation (water just falls from the sky and grass grows without input).</p>
+<h3 id="automation-based-on-events-in-my-work-life">Automation based on events in my work life</h3>
+<p>One automation that could be useful is deleting a file if it is over a certain age (in the case of temporary or archive storage). This would help reduce the cost of storage, of course deletions from archive would have to be approved by management.</p>
+<p>This automation would still have to run on a timer, but in your script you could have an &ldquo;if&rdquo; statement which checks for file age (or you could just use <strong>-mtime</strong> in the <strong>find</strong> command)</p>
+<h3 id="automation-based-on-time">Automation based on time</h3>
+<p>A timer is very cheap and can be relied upon as a solid start and endpoint. Additionally, if you were to include additional events you could just set a hard stop timer every night to prevent your automation from continuing if an event were to trigger (weather, etc).</p>
+<p>In my personal life, I use just basic timers w/o internet connectivity. I&rsquo;ve experimented with wifi smart plugs but I found that they didn&rsquo;t work as well for controlling my nightlight led strips (the ones I used would not maintain the &ldquo;power on&rdquo; state if a breaker flipped or if they were unplugged). I find that the digital timers w/ a clock on them work better than the rotating type (analog I guess).</p>
+<h3 id="smart-plugs">Smart plugs</h3>
+<p>On the topic of smart plugs, they can be very expensive, integrating them into home assistant can be troublesome (requiring flashing of the plugs or alot of time tinkering with them to get them to work right). Zwave/Zigbee requires a special type of plug / transmitter which is too expensive for what I want to spend.</p>
+<h1 id="price-to-performance">Price to performance</h1>
+<p>One recurring theme in my blog posts is that I am frugal.</p>
+<p>Some people may view this as being cheap (and they may be right).</p>
+<p>My personal goal is to live my life in such a way that:</p>
+<ul>
+<li>If a burglar were to enter my house they would not want to take anything
+<ul>
+<li>because what I have seems worthless to them.</li>
+</ul>
+</li>
+<li>I buy things that enable me to have a good life</li>
+<li>If an item &ldquo;does not spark joy&rdquo; I sell it</li>
+<li>As my grandpa said <em><strong>&ldquo;If you can&rsquo;t eat it, you don&rsquo;t need it&rdquo;</strong></em></li>
+</ul>
+
+</article>
+</main>
+</div>
+
+<footer>
+  <p>&copy; 2025 m-fra.me</p>
+</footer>
+
+
+ 
+
+<script src="/background_patterns.js"></script>
+
+
+
+</body>
+</html>
+
