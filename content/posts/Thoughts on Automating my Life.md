@@ -33,7 +33,7 @@ Monitoring can mean:
 
 
 ### Automation based on events
-Some people think that you can make your automations smarter by having them make decisions based on the surrounding environment, In most of the automations i've seen on the internet (such as weather reports). From what i've seen, weather reports can be wrong. 
+Some people think that you can make your automations smarter by having them make decisions based on the surrounding environment(such as weather reports). From what i've seen, weather reports can be wrong (and are not reliable). 
 
 You could argue that you can add your own weather station to your automation setup but that would just increase the cost of your configuration and there becomes a price-to-performance issue in my opinion.
 
