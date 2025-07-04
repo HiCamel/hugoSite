@@ -14,7 +14,7 @@ Automation is something that I really enjoy doing. It is nice to configure your 
 
 In my personal life, I set timers on things such as lighting, air conditioning and vacuuming (robot vacuum). You could also think of a dishwasher, washing machine and dryers as another form of automation (although they are less exotic). 
 
-In my work life, I write scripts to process data, perform actions aganst files (such as compression and modifications), use cron to run scripts on a timer, and to pull information about the computers that I administer (for monitoring purposes).
+In my work life, I write scripts to process data, perform actions against files (such as compression and modifications), use cron to run scripts on a timer, and to pull information about the computers that I administer (for monitoring purposes).
 
 
 
