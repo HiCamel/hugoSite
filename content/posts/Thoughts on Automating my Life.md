@@ -60,8 +60,8 @@ One recurring theme in my blog posts is that I am frugal.
 Some people may view this as being cheap (and they may be right). 
 
 My personal goal is to live my life in such a way that:
- - If a burglar were to enter my house they would not want to take anything 
-	+ because what I have seems worthless to them. 
+ - If a burglar were to enter my house they would look around, be disgusted and leave.
+	+ Ideally they'd also say "what are you, poor?" with a disgusted look on their face 
  - I buy things that enable me to have a good life
  - If an item "does not spark joy" I sell it
  - As my grandpa said ***"If you can't eat it, you don't need it"***
