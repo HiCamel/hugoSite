@@ -6,7 +6,19 @@
     <description>Recent content on m-fra.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jul 2025 08:03:13 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jul 2025 16:45:06 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Percieved Differences</title>
+      <link>http://example.org/posts/percieveddifferences/</link>
+      <pubDate>Thu, 24 Jul 2025 16:45:06 -0500</pubDate>
+      
+      <guid>http://example.org/posts/percieveddifferences/</guid>
+      <description>Sometimes in life things can look very different but actually be the same thing.
+I was browsing facebook one day and came across the following meme.
+In the above picture there are two very different block layouts, however the result of missing the jump to any of the blocks in each layout is that Mario will fall into the pit.
+Even though the picture on the right has more blank space the end result is similar to the picture on the left (either you jump over the obstacle or you fall into the pit).</description>
+    </item>
+    
     <item>
       <title>Thoughts on Automating My Life</title>
       <link>http://example.org/posts/thoughts-on-automating-my-life/</link>
