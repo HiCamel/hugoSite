@@ -1,5 +1,5 @@
 ---
-title: "Percieved Differences"
+title: "Perceived Differences"
 date: 2025-07-24T16:45:06-05:00
 draft: false
 ---
